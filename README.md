@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Olá, sou Vitor Hugo Schmitt, e muito bem-vindo(a) ao meu GitHub! </h1>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Programador+em+formação+;Adora+desafios+e+obstáculos;Adorador+de+Front-end❤️+" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=B808F7&lines=Programador+em+formação+;Adora+desafios+e+obstáculos;Adorador+de+Front-end❤️+" />
 </p>
 
 <br>
