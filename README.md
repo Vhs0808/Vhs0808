@@ -22,22 +22,48 @@ Atualmente, também estou estudando tecnologias para me tornar um programador **
 
 ## 💻 Tecnologias que utilizo
 
-<div align="center">
-  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<div align="center"> 
+  <img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img alt="Spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img alt="HTML5" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> 
+  <img alt="CSS3" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> 
+  <img alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> 
+  <img alt="Node.js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"> 
+  <img alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> 
+  <img alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"> 
+  <img alt="Maven" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"> 
+  <img alt="Tomcat" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg"> 
+  <img alt="Insomnia" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"> 
+  <img alt="JPA / Hibernate" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg">
+  <img alt="IntelliJ IDEA" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+  <img alt="VS Code" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 
 <br>
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vhs0808&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhs0808&layout=compact&theme=radical" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vhs0808&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+        alt="Estatísticas do GitHub"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vhs0808&layout=compact&theme=radical"
+        alt="Linguagens mais usadas"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
