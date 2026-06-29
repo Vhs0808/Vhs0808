@@ -1,36 +1,34 @@
 name: Generate Contribution Snake
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-push:
-branches:
-- main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-generate:
-permissions:
-contents: write
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-```
-runs-on: ubuntu-latest
-timeout-minutes: 5
+    permissions:
+      contents: write
 
-steps:
-  - name: Gerar animação da cobrinha
-    uses: Platane/snk/svg-only@v3
-    with:
-      github_user_name: Vhs0808
-      outputs: |
-        dist/github-contribution-grid-snake.svg
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Vhs0808
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Publicar animação na branch output
-    uses: crazy-max/ghaction-github-pages@v3.1.0
-    with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
